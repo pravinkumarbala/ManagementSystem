@@ -1,0 +1,3 @@
+DocId	FName	LName	Special			SWH		EWH		CT
+dr247	Karthik	Raman	DERMATOLOGISTS	06:00	20:00	10
+dr768	Pravin	Kumar	CARDIOLOGISTS	07:00	21:00	15
